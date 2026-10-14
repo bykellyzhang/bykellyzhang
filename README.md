@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kelly 👋
 
-<!--
-**bykellyzhang/bykellyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data and analytics professional based in San Francisco, currently at Nordstrom and previously at Amazon.
 
-Here are some ideas to get you started:
+I'm exploring how AI can help us build useful products, understand customers, and turn ideas into reality. This is where I share what I build and learn along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I'm exploring
+
+- **AI & building** — experimenting with AI tools and coding agents.
+- **Product & growth** — connecting data, customer needs, and business decisions.
+- **Startups & venture** — learning from founders and exploring early-stage ideas as a venture scout.
+
+---
+
+## 🌱 A little about me
+
+My background is in business intelligence and analytics, with a BA in Public Relations and an MS in Business Intelligence & Analytics.
+
+I'm curious about the space where technology, people, and business meet. Outside of work, you'll find me at San Francisco tech events, meeting builders, and exploring new ideas.
